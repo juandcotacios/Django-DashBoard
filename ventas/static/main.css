@@ -1,0 +1,54 @@
+body {
+  background-color: white;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.logo-image {
+  margin-top: 2%;
+  width: 5px;
+  height: 20px;
+  margin-left: -2%;
+  position: absolute
+}
+
+.graf {
+  margin-left: -22%;
+  margin-top: 14%;
+  width: 40%;
+  position: absolute;
+}
+
+
+.editable-text {
+
+  margin-left: 38%;
+  margin-top: 2%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+  position: absolute;
+
+}
+
+.graficoT{
+  margin-left: 57%;
+  margin-top: 14%;
+  width: 40%;
+  position: absolute;
+}
+
+.graficoF{
+  margin-left: 1%;
+  margin-top: 34%;
+  width: 40%;
+  position: absolute;
+}
+.graficoH{
+  margin-left: 57%;
+  margin-top: 34%;
+  width: 40%;
+  position: absolute;
+}
+
